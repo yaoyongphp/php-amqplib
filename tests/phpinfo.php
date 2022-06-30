@@ -1,5 +1,5 @@
 <?php
-
+//test
 echo '# General info', PHP_EOL;
 phpinfo(INFO_GENERAL);
 echo PHP_EOL;
